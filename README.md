@@ -1,4 +1,4 @@
-# BasicProgramming-C-
+# BasicProgramming
 This is the place where I will be maintaining all my basic programming codes.
 
 **NOTE:**
